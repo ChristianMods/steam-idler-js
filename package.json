@@ -1,0 +1,14 @@
+{
+  "name": "steamidler",
+  "version": "1.0.0",
+  "description": "A nodejs steam-idler built by Chris - FNBRChris",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris - FNBRChris",
+  "license": "ISC",
+  "dependencies": {
+    "steam-user": "^4.19.4"
+  }
+}
