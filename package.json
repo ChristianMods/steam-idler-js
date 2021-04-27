@@ -1,7 +1,7 @@
 {
   "name": "steamidler",
   "version": "1.0.0",
-  "description": "A js steam-idler build by chris - FNBRChris",
+  "description": "A js steam-idler built by chris - FNBRChris",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
